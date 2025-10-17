@@ -1,6 +1,8 @@
-# 4_dev
-a=int (input("Enter 1st number:"))
-b=int (input("Enter 2nd number:"))
-sum=a+b
-sub=a-b
-print("sum:",sum/n"sub:",sub)
+a = int(input("Enter 1st number: "))
+b = int(input("Enter 2nd number: "))
+
+sum_result = a + b
+sub_result = a - b
+
+print("Sum:", sum_result)
+print("Subtraction:", sub_result)
